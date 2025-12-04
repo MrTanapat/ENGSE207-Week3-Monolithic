@@ -1,4 +1,4 @@
-# Week 3 Starter Code - Task Board Monolithic
+# Week 3 - Task Board Monolithic
 
 ## 📁 Project Structure
 
@@ -76,3 +76,4 @@ See full lab guide in:
 ---
 
 *ENGSE207 Software Architecture - Week 3*
+
